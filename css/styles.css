@@ -7,14 +7,10 @@
 }
 @font-face {
   font-family: 'A-Note';
-  font-style: normal;
-  font-weight: normal;
   src: url("../fonts/A-Note.ttf");
 }
 @font-face {
   font-family: 'Artless-Demo';
-  font-style: normal;
-  font-weight: normal;
   src: url("../fonts/Artless-Demo.otf");
 }
 /* Base reset */
