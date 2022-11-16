@@ -5,7 +5,18 @@
   --main-blue: #45567d;
   --main-gray: #303841;
 }
-
+@font-face {
+  font-family: A-Note;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/A-Note.ttf") format("ttf");
+}
+@font-face {
+  font-family: Artless-Demo;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Artless-Demo.otf") format("otf");
+}
 /* Base reset */
 * {
   margin: 0;
