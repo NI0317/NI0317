@@ -9,13 +9,13 @@
   font-family: A-Note;
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/A-Note.ttf") format("ttf");
+  src: url("../fonts/A-Note.ttf") format("truetype");
 }
 @font-face {
   font-family: Artless-Demo;
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/Artless-Demo.otf") format("otf");
+  src: url("../fonts/Artless-Demo.otf") format("opentype");
 }
 /* Base reset */
 * {
